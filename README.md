@@ -606,6 +606,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Tools that monitor applications in production.*
 
+* [Dotcom-Monitor ![c]](https://www.dotcom-monitor.com/) - Performance monitoring.
 * [AppDynamics ![c]](https://www.appdynamics.com/) - Performance monitor.
 * [Glowroot](https://glowroot.org/) - Open source Java APM.
 * [JavaMelody](https://github.com/javamelody/javamelody) - Performance monitoring and profiling.
@@ -704,6 +705,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Frameworks that are suites of multiple libraries encompassing several categories.*
 
+* [Dotcom-Monitor Platform](https://www.dotcom-monitor.com) - An entire suite of monitoring and testing tools, including infrastructure testing (MetricsView), browser and https monitoring (UserView) and load testing (LoadView).
 * [CUBA Platform](https://cuba-platform.com) - High level framework for development of enterprise applications with rich web interface, based on Spring, EclipseLink and Vaadin.
 * [Spring](http://projects.spring.io/spring-framework/) - Provides many packages ranging from dependency injection to aspect-oriented programming to security.
 
@@ -799,6 +801,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Tools that test from model to the view.*
 
+* [Dotcom-Tools](https://www.dotcom-tools.com/) - Free Online Website Performance Tools.
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
 * [Arquillian](http://arquillian.org/) - Integration and functional testing platform for Java EE containers.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) - Fluent assertions that improve readability.
